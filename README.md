@@ -13,6 +13,17 @@ Python Learning
 * user `**` over `math.pow`
 &nbsp;
 
+##### Python Object Reference ####
+* `line = 'hello'`  
+`line_copy = line`  
+`id(line), id(line_copy)` --> (112233, 112233)  
+![objec_reference_1.png](Documents/objec_reference_1.png)  
+
+* `line = 'world'`  
+`id(line), id(line_copy)` --> (223344, 112233)   
+![objec_reference_2.png](Documents/objec_reference_2.png)  
+&nbsp;
+
 ##### Python Data Types ####
 * 
 &nbsp;
