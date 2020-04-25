@@ -24,10 +24,19 @@ Python Learning
 ![objec_reference_2.png](Documents/objec_reference_2.png)  
 &nbsp;
 
-##### Python Data Types ####
-* 
+##### Python List ####
+* In Python, sequence is the generic term for an ordered set. 
+* There are six sequence types: strings, Unicode strings, lists, tuples, buffers, and xrange objects.
+* List is **mutable**. 
+
 &nbsp;
 
+##### Python Data Structure ####
+* List is a collection which is ordered and changeable. Allows duplicate members.
+* Tuple is a collection which is ordered and unchangeable. Allows duplicate members.
+* Set is a collection which is unordered and unindexed. No duplicate members.
+* Dictionary is a collection which is unordered, changeable and indexed. No duplicate members.
+&nbsp;
 
 &nbsp;
 ### Python VS Java ###
