@@ -38,6 +38,11 @@ Python Learning
 * Dictionary is a collection which is unordered, changeable and indexed. No duplicate members.
 &nbsp;
 
+##### Conditions ####
+* `elif` can be from 0 to infinity. 
+* `else` is not necessary.  
+&nbsp;
+
 &nbsp;
 ### Python VS Java ###
 ##### Strings #####
