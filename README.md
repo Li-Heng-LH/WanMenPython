@@ -105,3 +105,4 @@ Python Strings also:
 ### Useful links ###
 * [​​​​Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 * [Python Naming Conventions](https://www.python.org/dev/peps/pep-0008/#function-and-variable-names)
+* [java vs python data types](https://www.programcreek.com/2012/09/java-vs-python-data-types/)
