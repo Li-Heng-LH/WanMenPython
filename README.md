@@ -25,7 +25,7 @@ Python Learning
 &nbsp;
 
 ##### Python List ####
-* In Python, sequence is the generic term for an ordered set. 
+* In Python, **sequence** is the generic term for an ordered set. 
 * There are six sequence types: strings, Unicode strings, lists, tuples, buffers, and xrange objects.
 * List is **mutable**. 
 
@@ -41,6 +41,15 @@ Python Learning
 ##### Conditions ####
 * `elif` can be from 0 to infinity. 
 * `else` is not necessary.  
+&nbsp;
+
+##### For Loop ####
+A for loop can be used for iterating over : 
+* list
+* tuple
+* dictionary
+* set
+* string
 &nbsp;
 
 &nbsp;
