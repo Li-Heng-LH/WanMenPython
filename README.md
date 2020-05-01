@@ -10,7 +10,7 @@ Python Learning
 &nbsp;
 
 ##### math library ####
-* user `**` over `math.pow`
+* use `**` over `math.pow`
 &nbsp;
 
 ##### Python Object Reference ####
