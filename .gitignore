@@ -2,5 +2,7 @@
 stations.txt
 PASADENA.dly
 HILO.dly
+allyears.csv.gz
 
 **/__pycache__/
+**/names/
