@@ -6,3 +6,5 @@ allyears.csv.gz
 
 **/__pycache__/
 **/names/
+
+**/.DS_Store
